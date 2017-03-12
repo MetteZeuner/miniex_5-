@@ -1,6 +1,6 @@
 <h1>Lord of the Themes<h1> 
 
-<h6>Run program (WARNING! - do not click on the buttons too quickly after each other – for some the reason the program can’t handle this and begins to play the music on top of each other, which is not a pleasant experience.. and also for the sake of your ears, I do not recommend listening to this with headphones on, since I can’t guarantee the loudness of the music!):  <https://mettezeuner.github.io/miniex_5-/empty-example/> <h6>
+<h6>Run program (WARNING! - do not click on the buttons too quickly after each other – for some reason the program can’t handle this and begins to play the music on top of each other, which is not a pleasant experience.. and also for the sake of your ears, I do not recommend listening to this with headphones on, since I can’t guarantee the loudness of the music!):  <https://mettezeuner.github.io/miniex_5-/empty-example/> <h6>
 
 ![ScreenShot](https://github.com/MetteZeuner/miniex_5-/blob/gh-pages/SkÃ¦rmbillede%202017-03-12%2016.24.54.png)
 
