@@ -1,3 +1,3 @@
 # miniex_5-
 
-![ScreenShot](https://github.com/MetteZeuner/mini_ex4-/blob/gh-pages/Wonder%20Ball.png)
+![ScreenShot](https://github.com/MetteZeuner/miniex_5-/blob/gh-pages/SkÃ¦rmbillede%202017-03-12%2016.24.54.png)
