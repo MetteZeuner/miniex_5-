@@ -6,7 +6,7 @@
 
 <h3>My Program<h3>
 
-<h6>My program evolves around a passage from the book “Lord of the Rings” that I found online. When you click on the different themes, the passage changes some of its word making the story correspond with the theme. The inspiration of my program is based upon some fun examples I saw online, where words from books are changed thus making it a lot funnier or weirder. My idea is just for fun and should not be taken seriously in any way.<h6>
+<h6>My program evolves around a passage from the book “Lord of the Rings” that I found online. When you click on the different themes, the passage changes some of its words making the story correspond with the theme. The inspiration for my program is based upon some fun examples I saw online, where words from books are changed thus making it a lot funnier or weirder. My idea is just for fun and should not be taken seriously in any way.<h6>
 
 <h3>Functions used from RiTa library<h3>
 
